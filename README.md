@@ -1,4 +1,4 @@
-# Money Transfer Application
+# Virtual Account Money Transfer Application Challenge
 
 ## Description
 
@@ -52,7 +52,7 @@ A full-stack money transfer application built with NestJS, TypeORM, PostgreSQL, 
    ```
 3. Start the development server:
    ```bash
-   npm start
+   npm run dev
    ```
 
 ## Testing
